@@ -1,6 +1,6 @@
 # 📅 Aplicatie Android - Rezervare Evenimente (Event Booker)
 
-Această aplicație Android oferă o soluție simplă și eficientă pentru rezervarea de servicii foto-video pentru evenimente precum nunți, botezuri sau majorate. Este o aplicație complet locală, creată pentru proiect academic / portofoliu.
+Aplicație Android oferă o soluție simplă și eficientă pentru rezervarea de servicii foto-video pentru evenimente private. Este o aplicație complet locală, creată pentru proiect academic / portofoliu.
 
 ---
 
